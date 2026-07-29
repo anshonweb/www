@@ -1,7 +1,7 @@
 export default function Navigation() {
   const links = [
     { href: "/blog", text: "BLOG" },
-    { href: "https://x.com/anshonweb", text: "TWITTER" },
+    { href: "https://www.linkedin.com/in/anshanand31/", text: "LINKEDIN" },
     { href: "https://github.com/anshonweb", text: "GITHUB" },
     { href: "mailto:ansh.a.3112@gmail.com", text: "MAIL" },
   ];
