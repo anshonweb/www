@@ -15,8 +15,8 @@ export default function BlogIndex() {
         <Link href="/" className="site-title">~/blog</Link>
         <nav>
           <Link href="/">HOME</Link>
-          <a href="https://x.com/anshonweb" target="_blank" rel="noopener noreferrer">
-            TWITTER
+          <a href="https://www.linkedin.com/in/anshanand31/" target="_blank" rel="noopener noreferrer">
+            LINKEDIN
           </a>
           <a href="https://github.com/anshonweb" target="_blank" rel="noopener noreferrer">
             GITHUB
